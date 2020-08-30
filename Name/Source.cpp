@@ -5,6 +5,7 @@ int main()
 	char name;
 	printf("Let me know your first character : ");
 	scanf_s("%c", &name);
+	//forgive me for this too long and some nonsense things. I'm on practicing.
 	if (name == 'a' || name == 'A')
 	{
 		printf("%c for Adorable one",name);
